@@ -6,6 +6,6 @@ namespace ArrayAiMessages02.Models
     {
         public string? Model { get; set; }
         [Required]
-        public List<ChatMessage> Messages { get; set; }
+        public List<ChatMessage> Messages { get; set; }// intera cronologia della chat
     }
 }
