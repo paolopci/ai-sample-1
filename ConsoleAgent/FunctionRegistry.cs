@@ -53,6 +53,5 @@ public static class FunctionRegistry
                 Name = "email_friend",
                 Description = "Sends an email to my friend with this name",
             });
-
     }
 }

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ConsoleAgent": {
+      "commandName": "Project",
+      "commandLineArgs": "--provider openai --model gpt-5",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
