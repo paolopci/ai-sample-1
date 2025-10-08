@@ -1,8 +1,6 @@
-using Microsoft.AspNetCore.Mvc;
 using InvoiceApp.Data;
 using InvoiceApp.Models;
-using System.Collections.Generic;
-using System.Linq;
+using Microsoft.AspNetCore.Mvc;
 
 namespace InvoiceApp.Controllers
 {
